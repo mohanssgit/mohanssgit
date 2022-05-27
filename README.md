@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohan Singh
 - 👀 I’m enthusiastic about contributing to open source
-- 🌱 I’m proficient in C, C++ & pyhton and currently learning web dev
+- 🌱 I’m proficient in C, C++ & python and currently learning web dev
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me? -> mohansingh1830@gmail.com
 
