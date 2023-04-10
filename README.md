@@ -9,7 +9,7 @@ Playing with Machine Learning models for slightly above 2 years now. Into Backen
 *   🌍  Chandigarh, India
 *   🧠  Learning Backend Develpoment with Node.js
 *   🤝  Open to collaborating on Projects including AI or anything that's super exciting
-*   ⚡  I am obsessed with the FinTech space
+*   ⚡  I am obsessed with the FinTech### space
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
