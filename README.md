@@ -7,7 +7,7 @@ Deep Learning enthusiast | Learning MERN Stack
 Playing with Machine Learning models for slightly above 2 years now. Into Backend Engineering lately
 
 *   🌍  Chandigarh, India
-*   🧠  Learning Backend Development Node.js
+*   🧠  Learning Backend Development with Node.js
 *   🤝  Open to collaborating on Projects including AI or anything that sounds super cool
 *   ⚡  I am obsessed with the FinTech space
 ### Skills 
