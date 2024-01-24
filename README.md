@@ -1,14 +1,14 @@
 Hi 👋 My name is Mohan Singh
 ============================
 
-Deep Learning enthusiast | Learning MERN Stack
+Deep Learning enthusiast | Full Stack Dev
 ----------------------------------------------
 
 Playing with Machine Learning models for slightly above 2 years now. Into Backend Engineering lately
 
 *   🌍  Chandigarh, India
-*   🧠  Learning Backend Development with Node.js
-*   🤝  Open to collaborating on Projects including AI or anything that sounds super cool
+*   🧠  Advancing my skill set in web applications
+*   🤝  Open to collaborating on Projects including Machine Learning or anything that sounds super cool
 *   ⚡  I am obsessed with the FinTech space
 ### Skills 
 <p align="left">
