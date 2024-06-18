@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohan Singh
 ============================
 
-Deep Learning enthusiast | Full Stack Dev
+Applied ML
 ----------------------------------------------
 
 Playing with Machine Learning models for slightly above 2 years now. Into Backend Engineering lately
